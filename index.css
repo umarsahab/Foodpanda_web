@@ -1,0 +1,16 @@
+.carousel-item > img{
+    height: 600px;
+}
+.sample{
+    border-radius: 100%;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.sample:hover{
+    background-color: gray;
+}
